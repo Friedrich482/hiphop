@@ -94,6 +94,41 @@ const data = [
       "https://i.scdn.co/image/ab6761610000e5ebf9e04c088a3c79d5d88fdfaa",
   },
   // Add more objects as needed
+  {
+    title: "divine",
+    details:
+      "Divine, (stylized as DIVINE), is an Indian rapper of Goan descent. Born and raised in Andheri, Mumbai, Divine started gaining popularity after the release of his single 'Yeh Mera Bombay' in 2013. He broke through with the release of 'Mere Gully Mein' in 2019, which featured fellow Mumbai-based rapper Naezy.",
+    link: "https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz",
+    imageUrl: 
+      "https://allaboutmusic.in/wp-content/uploads/2019/08/DIVINE-30364-ConvertImage-ConvertImage-2048x2048.jpg",
+  },
+
+  {
+    title: "emiway bantai",
+    details:
+      "Emiway Bantai is an Indian singer, songwriter, rapper and live performer. His most well-known work is the song Asli Hip Hop from the 2019 movie Gully Boy. He also made an appearance on the well-known reality series India’s Got Talent before becoming famous. Emiway originally from Bengaluru, Karnataka.",
+    link: "https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I",
+    imageUrl: 
+      "https://media.insider.in/image/upload/c_crop,g_custom/v1692772698/a9pulg5c16x5kjwpfbt8.png",
+  }, 
+
+  {
+    title: "Mr. Dawar",
+    details:
+      "Mr Dawar is an independent Pakistani rapper from Lahore, Pakistan. His most lyrics are society-based and on social issues which he uses in his music to wake up the public from dream neglect. He is one of a notable icon from the underground hip-hop scene of Pakistan, his maximum songs are in pure Urdu language. He uses daily routine words/slang which connects the local listeners.",
+    link: "https://open.spotify.com/artist/3ZH9QiZICwDSDt57FTduC9",
+    imageUrl:
+      "https://yt3.googleusercontent.com/yxsHEYx92_ck66yY8aiOJhaXhRhxTLgMYCojE57KQ7ULtVKT2zeYZ6ACadjlnmA7trqCuaEw=s900-c-k-c0x00ffffff-no-rj"
+  },
+
+  {
+    title: "Faris Shafi",
+    details:
+      "Faris Shafi is a Pakistani rapper, songwriter and actor. Performing in Urdu, English and Punjabi, Faris is known for his lyrics that can be personal as well as political, and is considered a pioneer of Urdu rap in Pakistan.",
+    link: "https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD",
+    imageUrl:
+      "https://i.scdn.co/image/ab6761610000e5eb64bd51c9a55149c285a264e7",
+  }
 ];
 
 export default data;
